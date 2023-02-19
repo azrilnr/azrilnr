@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Azril Nur Rahman</h1>
-<h3 align="center">A passionate Flutter Developer</h3>
+<h3 align="center">Flutter Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/thumbnail/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azrilnr&label=Profile%20views&color=0e75b6&style=flat" alt="azrilnr" /> </p>
@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/azril nur rahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="azril nur rahman" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/azril-nur-rahman-14612b1b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/azril-nur-rahman-14612b1b7/" height="30" width="40" /></a>
 <a href="https://instagram.com/azril_nr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="azril_nr" height="30" width="40" /></a>
 </p>
 
